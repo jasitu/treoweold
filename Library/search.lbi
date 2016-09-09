@@ -1,0 +1,9 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.body-text {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+</style>
+<body class="body-text">Search 
+              <input type="text" name="search" id="search" />
+          <input type="submit" name="button" id="button" value="Go!" />
